@@ -1,15 +1,129 @@
-<div style="width: 1433px; height: 2114px; background-color: white; position: relative;">
-    <div style="width: 1121px; height: 428px; padding-top: 51px; padding-bottom: 34px; padding-left: 57px; padding-right: 212px; left: 156px; top: 108px; position: absolute; background-image: linear-gradient(98deg, rgba(129.29, 70.12, 255, 1), rgba(255, 79.69, 247.99, 1)); border-radius: 8px; display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-end;">
-        <img style="width: 310px; height: 343px;" src="https://via.placeholder.com/310x343"/>
-        <div style="width: 77px;"/>
-        <p style="font-size: 64px; letter-spacing: 2.24px; color: white;">LuaForums!<br/><br/>Learn Lua the <br/>EASY way!</p>
-    </div>
-    <div style="width: 266px; height: 256px; left: 231px; top: 565px; position: absolute; background-image: linear-gradient(132deg, rgba(129.29, 70.12, 255, 1), rgba(198.90, 79.69, 255, 1)); border-radius: 20px; position: relative;">
-        <p style="width: 266px; height: 59px; left: 0px; top: 197px; position: absolute; font-size: 20px; font-weight: 800; letter-spacing: 0.70px; line-height: 53.50px; text-align: center; color: white;">Free forever!</p>
-        <img style="width: 248px; height: 194px; left: 9px; top: 10px; position: absolute;" src="https://via.placeholder.com/248x194"/>
-    </div>
-    <div style="width: 627px; height: 256px; padding-left: 84px; padding-right: 84px; padding-top: 5px; left: 574px; top: 565px; position: absolute; background-image: linear-gradient(261deg, rgba(103.06, 191.19, 255, 1), rgba(106.65, 250.09, 241.48, 1) 54%, rgba(121.08, 109.44, 255, 1)); border-radius: 20px; display: inline-flex; flex-direction: row; align-items: center; justify-content: center;">
-        <p style="width: 459px; height: 251px; font-size: 64px; font-weight: 800; letter-spacing: 2.24px; line-height: 53.50px; text-align: center; color: white;">Comming Soon!</p>
-    </div>
-    <p style="width: 740px; height: 60px; left: 347px; top: 26px; position: absolute; font-size: 64px; font-weight: 800; letter-spacing: 2.24px; line-height: 53.50px; text-align: center; color: black;">LuaForums</p>
-</div>
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /></head><body><div class="v1_2"><div class="v1_3"></div><div class="v2_5"></div><span class="v2_6">LuaForums!
+
+Learn Lua the 
+EASY way!</span><div class="v2_33"></div><span class="v2_39">Free forever!</span><div class="v3_48"></div><div class="v3_50"></div><span class="v3_49">Comming Soon!</span><span class="v3_52">LuaForums</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 2114px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 100%;
+  height: 428px;
+  background: linear-gradient(rgba(129,70,255,1), rgba(255,79,247,1));
+  opacity: 1;
+  position: absolute;
+  top: 108px;
+  left: 156px;
+}
+.v2_5 {
+  width: 310px;
+  height: 343px;
+  background: url("../images/v2_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 159px;
+  left: 213px;
+  overflow: hidden;
+}
+.v2_6 {
+  width: 465px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 242px;
+  left: 600px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_33 {
+  width: 266px;
+  height: 256px;
+  background: linear-gradient(rgba(129,70,255,1), rgba(198,79,255,1));
+  opacity: 1;
+  position: absolute;
+  top: 565px;
+  left: 231px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v2_39 {
+  width: 266px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 762px;
+  left: 231px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_48 {
+  width: 248px;
+  height: 194px;
+  background: url("../images/v3_48.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 575px;
+  left: 240px;
+  overflow: hidden;
+}
+.v3_50 {
+  width: 627px;
+  height: 256px;
+  background: linear-gradient(rgba(103,191,255,1), rgba(106,250,241,1));
+  opacity: 1;
+  position: absolute;
+  top: 565px;
+  left: 574px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v3_49 {
+  width: 459px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 570px;
+  left: 658px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_52 {
+  width: 740px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 347px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+</style>
